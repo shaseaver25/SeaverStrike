@@ -1,4 +1,7 @@
-Flask
-gspread
-oauth2client
+fastapi==0.112.1
+uvicorn[standard]==0.30.5
+gspread==6.1.2
+oauth2client==4.1.3
+
+
 
